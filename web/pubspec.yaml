@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+  assets:
+    - assets/barbershop_image.png
+
+    sdk: flutter
+  table_calendar: ^3.0.0
